@@ -1,0 +1,1 @@
+type HelloWorld = number // expected to be a string
